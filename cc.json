@@ -1,0 +1,998 @@
+{
+    "IS": {
+        "jname": "アイスランド",
+        "ename": "Iceland"
+    },
+    "IE": {
+        "jname": "アイルランド",
+        "ename": "Ireland"
+    },
+    "AZ": {
+        "jname": "アゼルバイジャン",
+        "ename": "Azerbaijan"
+    },
+    "AF": {
+        "jname": "アフガニスタン",
+        "ename": "Afghanistan"
+    },
+    "US": {
+        "jname": "アメリカ合衆国",
+        "ename": "United States of America"
+    },
+    "VI": {
+        "jname": "アメリカ領ヴァージン諸島",
+        "ename": "Virgin Islands (U.S.)"
+    },
+    "AS": {
+        "jname": "アメリカ領サモア",
+        "ename": "American Samoa"
+    },
+    "AE": {
+        "jname": "アラブ首長国連邦",
+        "ename": "United Arab Emirates"
+    },
+    "DZ": {
+        "jname": "アルジェリア",
+        "ename": "Algeria"
+    },
+    "AR": {
+        "jname": "アルゼンチン",
+        "ename": "Argentina"
+    },
+    "AW": {
+        "jname": "アルバ",
+        "ename": "Aruba"
+    },
+    "AL": {
+        "jname": "アルバニア",
+        "ename": "Albania"
+    },
+    "AM": {
+        "jname": "アルメニア",
+        "ename": "Armenia"
+    },
+    "AI": {
+        "jname": "アンギラ",
+        "ename": "Anguilla"
+    },
+    "AO": {
+        "jname": "アンゴラ",
+        "ename": "Angola"
+    },
+    "AG": {
+        "jname": "アンティグア・バーブーダ",
+        "ename": "Antigua and Barbuda"
+    },
+    "AD": {
+        "jname": "アンドラ",
+        "ename": "Andorra"
+    },
+    "YE": {
+        "jname": "イエメン",
+        "ename": "Yemen"
+    },
+    "GB": {
+        "jname": "イギリス",
+        "ename": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    "IO": {
+        "jname": "イギリス領インド洋地域",
+        "ename": "British Indian Ocean Territory"
+    },
+    "VG": {
+        "jname": "イギリス領ヴァージン諸島",
+        "ename": "Virgin Islands (British)"
+    },
+    "IL": {
+        "jname": "イスラエル",
+        "ename": "Israel"
+    },
+    "IT": {
+        "jname": "イタリア",
+        "ename": "Italy"
+    },
+    "IQ": {
+        "jname": "イラク",
+        "ename": "Iraq"
+    },
+    "IR": {
+        "jname": "イラン・イスラム共和国",
+        "ename": "Iran (Islamic Republic of)"
+    },
+    "IN": {
+        "jname": "インド",
+        "ename": "India"
+    },
+    "ID": {
+        "jname": "インドネシア",
+        "ename": "Indonesia"
+    },
+    "WF": {
+        "jname": "ウォリス・フツナ",
+        "ename": "Wallis and Futuna"
+    },
+    "UG": {
+        "jname": "ウガンダ",
+        "ename": "Uganda"
+    },
+    "UA": {
+        "jname": "ウクライナ",
+        "ename": "Ukraine"
+    },
+    "UZ": {
+        "jname": "ウズベキスタン",
+        "ename": "Uzbekistan"
+    },
+    "UY": {
+        "jname": "ウルグアイ",
+        "ename": "Uruguay"
+    },
+    "EC": {
+        "jname": "エクアドル",
+        "ename": "Ecuador"
+    },
+    "EG": {
+        "jname": "エジプト",
+        "ename": "Egypt"
+    },
+    "EE": {
+        "jname": "エストニア",
+        "ename": "Estonia"
+    },
+    "SZ": {
+        "jname": "エスワティニ",
+        "ename": "Eswatini"
+    },
+    "ET": {
+        "jname": "エチオピア",
+        "ename": "Ethiopia"
+    },
+    "ER": {
+        "jname": "エリトリア",
+        "ename": "Eritrea"
+    },
+    "SV": {
+        "jname": "エルサルバドル",
+        "ename": "El Salvador"
+    },
+    "AU": {
+        "jname": "オーストラリア",
+        "ename": "Australia"
+    },
+    "AT": {
+        "jname": "オーストリア",
+        "ename": "Austria"
+    },
+    "AX": {
+        "jname": "オーランド諸島",
+        "ename": "Åland Islands"
+    },
+    "OM": {
+        "jname": "オマーン",
+        "ename": "Oman"
+    },
+    "NL": {
+        "jname": "オランダ",
+        "ename": "Netherlands"
+    },
+    "GH": {
+        "jname": "ガーナ",
+        "ename": "Ghana"
+    },
+    "CV": {
+        "jname": "カーボベルデ",
+        "ename": "Cabo Verde"
+    },
+    "GG": {
+        "jname": "ガーンジー",
+        "ename": "Guernsey"
+    },
+    "GY": {
+        "jname": "ガイアナ",
+        "ename": "Guyana"
+    },
+    "KZ": {
+        "jname": "カザフスタン",
+        "ename": "Kazakhstan"
+    },
+    "QA": {
+        "jname": "カタール",
+        "ename": "Qatar"
+    },
+    "UM": {
+        "jname": "合衆国領有小離島",
+        "ename": "United States Minor Outlying Islands"
+    },
+    "CA": {
+        "jname": "カナダ",
+        "ename": "Canada"
+    },
+    "GA": {
+        "jname": "ガボン",
+        "ename": "Gabon"
+    },
+    "CM": {
+        "jname": "カメルーン",
+        "ename": "Cameroon"
+    },
+    "GM": {
+        "jname": "ガンビア",
+        "ename": "Gambia"
+    },
+    "KH": {
+        "jname": "カンボジア",
+        "ename": "Cambodia"
+    },
+    "MK": {
+        "jname": "北マケドニア",
+        "ename": "North Macedonia"
+    },
+    "MP": {
+        "jname": "北マリアナ諸島",
+        "ename": "Northern Mariana Islands"
+    },
+    "GN": {
+        "jname": "ギニア",
+        "ename": "Guinea"
+    },
+    "GW": {
+        "jname": "ギニアビサウ",
+        "ename": "Guinea-Bissau"
+    },
+    "CY": {
+        "jname": "キプロス",
+        "ename": "Cyprus"
+    },
+    "CU": {
+        "jname": "キューバ",
+        "ename": "Cuba"
+    },
+    "CW": {
+        "jname": "キュラソー",
+        "ename": "Curaçao"
+    },
+    "GR": {
+        "jname": "ギリシャ",
+        "ename": "Greece"
+    },
+    "KI": {
+        "jname": "キリバス",
+        "ename": "Kiribati"
+    },
+    "KG": {
+        "jname": "キルギス",
+        "ename": "Kyrgyzstan"
+    },
+    "GT": {
+        "jname": "グアテマラ",
+        "ename": "Guatemala"
+    },
+    "GP": {
+        "jname": "グアドループ",
+        "ename": "Guadeloupe"
+    },
+    "GU": {
+        "jname": "グアム",
+        "ename": "Guam"
+    },
+    "KW": {
+        "jname": "クウェート",
+        "ename": "Kuwait"
+    },
+    "CK": {
+        "jname": "クック諸島",
+        "ename": "Cook Islands"
+    },
+    "GL": {
+        "jname": "グリーンランド",
+        "ename": "Greenland"
+    },
+    "CX": {
+        "jname": "クリスマス島",
+        "ename": "Christmas Island"
+    },
+    "GD": {
+        "jname": "グレナダ",
+        "ename": "Grenada"
+    },
+    "HR": {
+        "jname": "クロアチア",
+        "ename": "Croatia"
+    },
+    "KY": {
+        "jname": "ケイマン諸島",
+        "ename": "Cayman Islands"
+    },
+    "KE": {
+        "jname": "ケニア",
+        "ename": "Kenya"
+    },
+    "CI": {
+        "jname": "コートジボワール",
+        "ename": "Côte d'Ivoire"
+    },
+    "CC": {
+        "jname": "ココス（キーリング）諸島",
+        "ename": "Cocos (Keeling) Islands"
+    },
+    "CR": {
+        "jname": "コスタリカ",
+        "ename": "Costa Rica"
+    },
+    "KM": {
+        "jname": "コモロ",
+        "ename": "Comoros"
+    },
+    "CO": {
+        "jname": "コロンビア",
+        "ename": "Colombia"
+    },
+    "CG": {
+        "jname": "コンゴ共和国",
+        "ename": "Congo"
+    },
+    "CD": {
+        "jname": "コンゴ民主共和国",
+        "ename": "Congo, Democratic Republic of the"
+    },
+    "SA": {
+        "jname": "サウジアラビア",
+        "ename": "Saudi Arabia"
+    },
+    "GS": {
+        "jname": "サウスジョージア・サウスサンドウィッチ諸島",
+        "ename": "South Georgia and the South Sandwich Islands"
+    },
+    "WS": {
+        "jname": "サモア",
+        "ename": "Samoa"
+    },
+    "ST": {
+        "jname": "サントメ・プリンシペ",
+        "ename": "Sao Tome and Principe"
+    },
+    "BL": {
+        "jname": "サン・バルテルミー",
+        "ename": "Saint Barthélemy"
+    },
+    "ZM": {
+        "jname": "ザンビア",
+        "ename": "Zambia"
+    },
+    "PM": {
+        "jname": "サンピエール島・ミクロン島",
+        "ename": "Saint Pierre and Miquelon"
+    },
+    "SM": {
+        "jname": "サンマリノ",
+        "ename": "San Marino"
+    },
+    "MF": {
+        "jname": "サン・マルタン（フランス領）",
+        "ename": "Saint Martin (French part)"
+    },
+    "SL": {
+        "jname": "シエラレオネ",
+        "ename": "Sierra Leone"
+    },
+    "DJ": {
+        "jname": "ジブチ",
+        "ename": "Djibouti"
+    },
+    "GI": {
+        "jname": "ジブラルタル",
+        "ename": "Gibraltar"
+    },
+    "JE": {
+        "jname": "ジャージー",
+        "ename": "Jersey"
+    },
+    "JM": {
+        "jname": "ジャマイカ",
+        "ename": "Jamaica"
+    },
+    "GE": {
+        "jname": "ジョージア",
+        "ename": "Georgia"
+    },
+    "SY": {
+        "jname": "シリア・アラブ共和国",
+        "ename": "Syrian Arab Republic"
+    },
+    "SG": {
+        "jname": "シンガポール",
+        "ename": "Singapore"
+    },
+    "SX": {
+        "jname": "シント・マールテン（オランダ領）",
+        "ename": "Sint Maarten (Dutch part)"
+    },
+    "ZW": {
+        "jname": "ジンバブエ",
+        "ename": "Zimbabwe"
+    },
+    "CH": {
+        "jname": "スイス",
+        "ename": "Switzerland"
+    },
+    "SE": {
+        "jname": "スウェーデン",
+        "ename": "Sweden"
+    },
+    "SD": {
+        "jname": "スーダン",
+        "ename": "Sudan"
+    },
+    "SJ": {
+        "jname": "スヴァールバル諸島およびヤンマイエン島",
+        "ename": "Svalbard and Jan Mayen"
+    },
+    "ES": {
+        "jname": "スペイン",
+        "ename": "Spain"
+    },
+    "SR": {
+        "jname": "スリナム",
+        "ename": "Suriname"
+    },
+    "LK": {
+        "jname": "スリランカ",
+        "ename": "Sri Lanka"
+    },
+    "SK": {
+        "jname": "スロバキア",
+        "ename": "Slovakia"
+    },
+    "SI": {
+        "jname": "スロベニア",
+        "ename": "Slovenia"
+    },
+    "SC": {
+        "jname": "セーシェル",
+        "ename": "Seychelles"
+    },
+    "GQ": {
+        "jname": "赤道ギニア",
+        "ename": "Equatorial Guinea"
+    },
+    "SN": {
+        "jname": "セネガル",
+        "ename": "Senegal"
+    },
+    "RS": {
+        "jname": "セルビア",
+        "ename": "Serbia"
+    },
+    "KN": {
+        "jname": "セントクリストファー・ネイビス",
+        "ename": "Saint Kitts and Nevis"
+    },
+    "VC": {
+        "jname": "セントビンセントおよびグレナディーン諸島",
+        "ename": "Saint Vincent and the Grenadines"
+    },
+    "SH": {
+        "jname": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+        "ename": "Saint Helena, Ascension and Tristan da Cunha"
+    },
+    "LC": {
+        "jname": "セントルシア",
+        "ename": "Saint Lucia"
+    },
+    "SO": {
+        "jname": "ソマリア",
+        "ename": "Somalia"
+    },
+    "SB": {
+        "jname": "ソロモン諸島",
+        "ename": "Solomon Islands"
+    },
+    "TC": {
+        "jname": "タークス・カイコス諸島",
+        "ename": "Turks and Caicos Islands"
+    },
+    "TH": {
+        "jname": "タイ",
+        "ename": "Thailand"
+    },
+    "KR": {
+        "jname": "大韓民国",
+        "ename": "Korea (the Republic of)"
+    },
+    "TW": {
+        "jname": "台湾（中華民国）",
+        "ename": "Taiwan, Province of China"
+    },
+    "TJ": {
+        "jname": "タジキスタン",
+        "ename": "Tajikistan"
+    },
+    "TZ": {
+        "jname": "タンザニア",
+        "ename": "Tanzania, United Republic of"
+    },
+    "CZ": {
+        "jname": "チェコ",
+        "ename": "Czechia"
+    },
+    "TD": {
+        "jname": "チャド",
+        "ename": "Chad"
+    },
+    "CF": {
+        "jname": "中央アフリカ共和国",
+        "ename": "Central African Republic"
+    },
+    "CN": {
+        "jname": "中華人民共和国",
+        "ename": "China"
+    },
+    "TN": {
+        "jname": "チュニジア",
+        "ename": "Tunisia"
+    },
+    "KP": {
+        "jname": "朝鮮民主主義人民共和国",
+        "ename": "Korea (the Democratic People's Republic of)"
+    },
+    "CL": {
+        "jname": "チリ",
+        "ename": "Chile"
+    },
+    "TV": {
+        "jname": "ツバル",
+        "ename": "Tuvalu"
+    },
+    "DK": {
+        "jname": "デンマーク",
+        "ename": "Denmark"
+    },
+    "DE": {
+        "jname": "ドイツ",
+        "ename": "Germany"
+    },
+    "TG": {
+        "jname": "トーゴ",
+        "ename": "Togo"
+    },
+    "TK": {
+        "jname": "トケラウ",
+        "ename": "Tokelau"
+    },
+    "DO": {
+        "jname": "ドミニカ共和国",
+        "ename": "Dominican Republic"
+    },
+    "DM": {
+        "jname": "ドミニカ国",
+        "ename": "Dominica"
+    },
+    "TT": {
+        "jname": "トリニダード・トバゴ",
+        "ename": "Trinidad and Tobago"
+    },
+    "TM": {
+        "jname": "トルクメニスタン",
+        "ename": "Turkmenistan"
+    },
+    "TR": {
+        "jname": "トルコ",
+        "ename": "Turkey"
+    },
+    "TO": {
+        "jname": "トンガ",
+        "ename": "Tonga"
+    },
+    "NG": {
+        "jname": "ナイジェリア",
+        "ename": "Nigeria"
+    },
+    "NR": {
+        "jname": "ナウル",
+        "ename": "Nauru"
+    },
+    "NA": {
+        "jname": "ナミビア",
+        "ename": "Namibia"
+    },
+    "AQ": {
+        "jname": "南極",
+        "ename": "Antarctica"
+    },
+    "NU": {
+        "jname": "ニウエ",
+        "ename": "Niue"
+    },
+    "NI": {
+        "jname": "ニカラグア",
+        "ename": "Nicaragua"
+    },
+    "NE": {
+        "jname": "ニジェール",
+        "ename": "Niger"
+    },
+    "JP": {
+        "jname": "日本",
+        "ename": "Japan"
+    },
+    "EH": {
+        "jname": "西サハラ",
+        "ename": "Western Sahara"
+    },
+    "NC": {
+        "jname": "ニューカレドニア",
+        "ename": "New Caledonia"
+    },
+    "NZ": {
+        "jname": "ニュージーランド",
+        "ename": "New Zealand"
+    },
+    "NP": {
+        "jname": "ネパール",
+        "ename": "Nepal"
+    },
+    "NF": {
+        "jname": "ノーフォーク島",
+        "ename": "Norfolk Island"
+    },
+    "NO": {
+        "jname": "ノルウェー",
+        "ename": "Norway"
+    },
+    "HM": {
+        "jname": "ハード島とマクドナルド諸島",
+        "ename": "Heard Island and McDonald Islands"
+    },
+    "BH": {
+        "jname": "バーレーン",
+        "ename": "Bahrain"
+    },
+    "HT": {
+        "jname": "ハイチ",
+        "ename": "Haiti"
+    },
+    "PK": {
+        "jname": "パキスタン",
+        "ename": "Pakistan"
+    },
+    "VA": {
+        "jname": "バチカン市国",
+        "ename": "Holy See"
+    },
+    "PA": {
+        "jname": "パナマ",
+        "ename": "Panama"
+    },
+    "VU": {
+        "jname": "バヌアツ",
+        "ename": "Vanuatu"
+    },
+    "BS": {
+        "jname": "バハマ",
+        "ename": "Bahamas"
+    },
+    "PG": {
+        "jname": "パプアニューギニア",
+        "ename": "Papua New Guinea"
+    },
+    "BM": {
+        "jname": "バミューダ",
+        "ename": "Bermuda"
+    },
+    "PW": {
+        "jname": "パラオ",
+        "ename": "Palau"
+    },
+    "PY": {
+        "jname": "パラグアイ",
+        "ename": "Paraguay"
+    },
+    "BB": {
+        "jname": "バルバドス",
+        "ename": "Barbados"
+    },
+    "PS": {
+        "jname": "パレスチナ",
+        "ename": "Palestine, State of"
+    },
+    "HU": {
+        "jname": "ハンガリー",
+        "ename": "Hungary"
+    },
+    "BD": {
+        "jname": "バングラデシュ",
+        "ename": "Bangladesh"
+    },
+    "TL": {
+        "jname": "東ティモール",
+        "ename": "Timor-Leste"
+    },
+    "PN": {
+        "jname": "ピトケアン",
+        "ename": "Pitcairn"
+    },
+    "FJ": {
+        "jname": "フィジー",
+        "ename": "Fiji"
+    },
+    "PH": {
+        "jname": "フィリピン",
+        "ename": "Philippines"
+    },
+    "FI": {
+        "jname": "フィンランド",
+        "ename": "Finland"
+    },
+    "BT": {
+        "jname": "ブータン",
+        "ename": "Bhutan"
+    },
+    "BV": {
+        "jname": "ブーベ島",
+        "ename": "Bouvet Island"
+    },
+    "PR": {
+        "jname": "プエルトリコ",
+        "ename": "Puerto Rico"
+    },
+    "FO": {
+        "jname": "フェロー諸島",
+        "ename": "Faroe Islands"
+    },
+    "FK": {
+        "jname": "フォークランド（マルビナス）諸島",
+        "ename": "Falkland Islands (Malvinas)"
+    },
+    "BR": {
+        "jname": "ブラジル",
+        "ename": "Brazil"
+    },
+    "FR": {
+        "jname": "フランス",
+        "ename": "France"
+    },
+    "GF": {
+        "jname": "フランス領ギアナ",
+        "ename": "French Guiana"
+    },
+    "PF": {
+        "jname": "フランス領ポリネシア",
+        "ename": "French Polynesia"
+    },
+    "TF": {
+        "jname": "フランス領南方・南極地域",
+        "ename": "French Southern Territories"
+    },
+    "BG": {
+        "jname": "ブルガリア",
+        "ename": "Bulgaria"
+    },
+    "BF": {
+        "jname": "ブルキナファソ",
+        "ename": "Burkina Faso"
+    },
+    "BN": {
+        "jname": "ブルネイ・ダルサラーム",
+        "ename": "Brunei Darussalam"
+    },
+    "BI": {
+        "jname": "ブルンジ",
+        "ename": "Burundi"
+    },
+    "VN": {
+        "jname": "ベトナム",
+        "ename": "Viet Nam"
+    },
+    "BJ": {
+        "jname": "ベナン",
+        "ename": "Benin"
+    },
+    "VE": {
+        "jname": "ベネズエラ・ボリバル共和国",
+        "ename": "Venezuela (Bolivarian Republic of)"
+    },
+    "BY": {
+        "jname": "ベラルーシ",
+        "ename": "Belarus"
+    },
+    "BZ": {
+        "jname": "ベリーズ",
+        "ename": "Belize"
+    },
+    "PE": {
+        "jname": "ペルー",
+        "ename": "Peru"
+    },
+    "BE": {
+        "jname": "ベルギー",
+        "ename": "Belgium"
+    },
+    "PL": {
+        "jname": "ポーランド",
+        "ename": "Poland"
+    },
+    "BA": {
+        "jname": "ボスニア・ヘルツェゴビナ",
+        "ename": "Bosnia and Herzegovina"
+    },
+    "BW": {
+        "jname": "ボツワナ",
+        "ename": "Botswana"
+    },
+    "BQ": {
+        "jname": "ボネール、シント・ユースタティウスおよびサバ",
+        "ename": "Bonaire, Sint Eustatius and Saba"
+    },
+    "BO": {
+        "jname": "ボリビア多民族国",
+        "ename": "Bolivia (Plurinational State of)"
+    },
+    "PT": {
+        "jname": "ポルトガル",
+        "ename": "Portugal"
+    },
+    "HK": {
+        "jname": "香港",
+        "ename": "Hong Kong"
+    },
+    "HN": {
+        "jname": "ホンジュラス",
+        "ename": "Honduras"
+    },
+    "MH": {
+        "jname": "マーシャル諸島",
+        "ename": "Marshall Islands"
+    },
+    "MO": {
+        "jname": "マカオ",
+        "ename": "Macau"
+    },
+    "MG": {
+        "jname": "マダガスカル",
+        "ename": "Madagascar"
+    },
+    "YT": {
+        "jname": "マヨット",
+        "ename": "Mayotte"
+    },
+    "MW": {
+        "jname": "マラウイ",
+        "ename": "Malawi"
+    },
+    "ML": {
+        "jname": "マリ",
+        "ename": "Mali"
+    },
+    "MT": {
+        "jname": "マルタ",
+        "ename": "Malta"
+    },
+    "MQ": {
+        "jname": "マルティニーク",
+        "ename": "Martinique"
+    },
+    "MY": {
+        "jname": "マレーシア",
+        "ename": "Malaysia"
+    },
+    "IM": {
+        "jname": "マン島",
+        "ename": "Isle of Man"
+    },
+    "FM": {
+        "jname": "ミクロネシア連邦",
+        "ename": "Micronesia (Federated States of)"
+    },
+    "ZA": {
+        "jname": "南アフリカ",
+        "ename": "South Africa"
+    },
+    "SS": {
+        "jname": "南スーダン",
+        "ename": "South Sudan"
+    },
+    "MM": {
+        "jname": "ミャンマー",
+        "ename": "Myanmar"
+    },
+    "MX": {
+        "jname": "メキシコ",
+        "ename": "Mexico"
+    },
+    "MU": {
+        "jname": "モーリシャス",
+        "ename": "Mauritius"
+    },
+    "MR": {
+        "jname": "モーリタニア",
+        "ename": "Mauritania"
+    },
+    "MZ": {
+        "jname": "モザンビーク",
+        "ename": "Mozambique"
+    },
+    "MC": {
+        "jname": "モナコ",
+        "ename": "Monaco"
+    },
+    "MV": {
+        "jname": "モルディブ",
+        "ename": "Maldives"
+    },
+    "MD": {
+        "jname": "モルドバ共和国",
+        "ename": "Moldova, Republic of"
+    },
+    "MA": {
+        "jname": "モロッコ",
+        "ename": "Morocco"
+    },
+    "MN": {
+        "jname": "モンゴル",
+        "ename": "Mongolia"
+    },
+    "ME": {
+        "jname": "モンテネグロ",
+        "ename": "Montenegro"
+    },
+    "MS": {
+        "jname": "モントセラト",
+        "ename": "Montserrat"
+    },
+    "JO": {
+        "jname": "ヨルダン",
+        "ename": "Jordan"
+    },
+    "LA": {
+        "jname": "ラオス人民民主共和国",
+        "ename": "Lao People's Democratic Republic"
+    },
+    "LV": {
+        "jname": "ラトビア",
+        "ename": "Latvia"
+    },
+    "LT": {
+        "jname": "リトアニア",
+        "ename": "Lithuania"
+    },
+    "LY": {
+        "jname": "リビア",
+        "ename": "Libya"
+    },
+    "LI": {
+        "jname": "リヒテンシュタイン",
+        "ename": "Liechtenstein"
+    },
+    "LR": {
+        "jname": "リベリア",
+        "ename": "Liberia"
+    },
+    "RO": {
+        "jname": "ルーマニア",
+        "ename": "Romania"
+    },
+    "LU": {
+        "jname": "ルクセンブルク",
+        "ename": "Luxembourg"
+    },
+    "RW": {
+        "jname": "ルワンダ",
+        "ename": "Rwanda"
+    },
+    "LS": {
+        "jname": "レソト",
+        "ename": "Lesotho"
+    },
+    "LB": {
+        "jname": "レバノン",
+        "ename": "Lebanon"
+    },
+    "RE": {
+        "jname": "レユニオン",
+        "ename": "Réunion"
+    },
+    "RU": {
+        "jname": "ロシア連邦",
+        "ename": "Russian Federation"
+    }
+}
