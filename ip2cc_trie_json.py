@@ -20,12 +20,16 @@ netmasks = {
 }
 
 
-def bit_seq_lsb(n: int):
-    for i in range(n.bit_length()):
+def bit_seq_lsb(n: int, len=None):
+    if len is None:
+        len = n.bit_length()
+    for i in range(len):
         bit = (n >> i) & 1
         yield bit
 
-def bit_seq_msb(n: int):
+def bit_seq_msb(n: int, len=None):
+    if len is None:
+        len = n.bit_length()
     for i in range(n.bit_length()-1,-1,-1):
         bit = (n >> i) & 1
         yield bit
@@ -44,9 +48,9 @@ class IPRangeTrie:
         with open(filename) as f:
             self.root = json.load(f)
 
-    def insert_rir(self, network, cidr, cc):
+    def insert_rir(self, network: ipaddress.IPv4Network, cidr, cc):
         node = self.root
-        bits = list(bit_seq_msb(int(network.network_address)))
+        bits = list(bit_seq_msb(int(network.network_address), len=network.max_prefixlen))
         for idx in range(cidr):
             bit = bits[idx]
             if bit not in node["node"]:
@@ -103,4 +107,5 @@ def main():
 
 
 if __name__ == '__main__':
+    create_table()
     main()
